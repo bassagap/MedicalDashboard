@@ -94,6 +94,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="calendar.html" />
+    <Content Include="compose.html" />
     <Content Include="dist\img\doctors\doctor-06.jpg" />
     <Content Include="dist\img\doctors\Doctor.jpg" />
     <Content Include="dist\img\doctors\doctor_PNG15963.png" />
@@ -102,6 +104,7 @@
     <Content Include="dist\img\doctors\happy-smiling-female-doctor.jpg" />
     <Content Include="dist\img\doctors\images %281%29.jpg" />
     <Content Include="dist\img\doctors\images.jpg" />
+    <Content Include="mailbox.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -310,41 +313,6 @@
     <Content Include="dist\js\pages\dashboard.js" />
     <Content Include="dist\js\pages\dashboard2.js" />
     <Content Include="Gruntfile.js" />
-    <Content Include="index.html" />
-    <Content Include="index2.html" />
-    <Content Include="pages\charts\chartjs.html" />
-    <Content Include="pages\charts\flot.html" />
-    <Content Include="pages\charts\inline.html" />
-    <Content Include="pages\charts\morris.html" />
-    <Content Include="pages\examples\404.html" />
-    <Content Include="pages\examples\500.html" />
-    <Content Include="pages\examples\blank.html" />
-    <Content Include="pages\examples\invoice-print.html" />
-    <Content Include="pages\examples\invoice.html" />
-    <Content Include="pages\examples\lockscreen.html" />
-    <Content Include="pages\examples\login.html" />
-    <Content Include="pages\examples\pace.html" />
-    <Content Include="pages\examples\profile.html" />
-    <Content Include="pages\examples\register.html" />
-    <Content Include="pages\forms\advanced.html" />
-    <Content Include="pages\forms\editors.html" />
-    <Content Include="pages\forms\general.html" />
-    <Content Include="pages\layout\boxed.html" />
-    <Content Include="pages\layout\collapsed-sidebar.html" />
-    <Content Include="pages\layout\fixed.html" />
-    <Content Include="pages\layout\top-nav.html" />
-    <Content Include="pages\mailbox\compose.html" />
-    <Content Include="pages\mailbox\mailbox.html" />
-    <Content Include="pages\mailbox\read-mail.html" />
-    <Content Include="pages\tables\data.html" />
-    <Content Include="pages\tables\simple.html" />
-    <Content Include="pages\UI\buttons.html" />
-    <Content Include="pages\UI\general.html" />
-    <Content Include="pages\UI\icons.html" />
-    <Content Include="pages\UI\modals.html" />
-    <Content Include="pages\UI\sliders.html" />
-    <Content Include="pages\UI\timeline.html" />
-    <Content Include="pages\widgets.html" />
     <Content Include="plugins\bootstrap-slider\bootstrap-slider.js" />
     <Content Include="plugins\bootstrap-slider\slider.css" />
     <Content Include="plugins\bootstrap-wysihtml5\bootstrap3-wysihtml5.all.js" />
@@ -1144,14 +1112,15 @@
     <Content Include="plugins\timepicker\bootstrap-timepicker.js" />
     <Content Include="plugins\timepicker\bootstrap-timepicker.min.css" />
     <Content Include="plugins\timepicker\bootstrap-timepicker.min.js" />
+    <Content Include="read-mail.html" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="starter.html" />
+    <Content Include="mailbox.aspx" />
     <Content Include="Web.config" />
     <Content Include="dashboard.aspx" />
     <Content Include="patients.aspx" />
     <Content Include="exercices.aspx" />
-    <Content Include="calendar.aspx" />
     <Content Include="WebForm5.aspx" />
   </ItemGroup>
   <ItemGroup>
@@ -1184,12 +1153,12 @@
     <Compile Include="exercices.aspx.designer.cs">
       <DependentUpon>exercices.aspx</DependentUpon>
     </Compile>
-    <Compile Include="calendar.aspx.cs">
-      <DependentUpon>calendar.aspx</DependentUpon>
+    <Compile Include="mailbox.aspx.cs">
+      <DependentUpon>mailbox.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="calendar.aspx.designer.cs">
-      <DependentUpon>calendar.aspx</DependentUpon>
+    <Compile Include="mailbox.aspx.designer.cs">
+      <DependentUpon>mailbox.aspx</DependentUpon>
     </Compile>
     <Compile Include="WebForm5.aspx.cs">
       <DependentUpon>WebForm5.aspx</DependentUpon>

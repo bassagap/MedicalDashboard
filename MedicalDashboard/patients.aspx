@@ -19,67 +19,67 @@
                 <table class="table no-margin">
                   <thead>
                   <tr>
-                    <th>Order ID</th>
-                    <th>Item</th>
+                    <th>Patient ID</th>
+                    <th>Name</th>
                     <th>Status</th>
-                    <th>Popularity</th>
+                    <th>Progress</th>
                   </tr>
                   </thead>
                   <tbody>
                   <tr>
-                    <td><a href="pages/examples/invoice.html">OR9842</a></td>
-                    <td>Call of Duty IV</td>
+                    <td><a href="pages/examples/invoice.html">PT9842</a></td>
+                    <td>Montserrat Grifols Climent</td>
                     <td><span class="label label-success">Shipped</span></td>
                     <td>
-                      <div class="sparkbar" data-color="#00a65a" data-height="20"><canvas width="34" height="20" style="display: inline-block; width: 34px; height: 20px; vertical-align: top;"></canvas></div>
-                    </td>
+                      <div class="sparkbar" data-color="#00a65a" data-height="20"><canvas width="34" height="20" style="display: inline-block; width: 34px; height: 20px; vertical-align: top;"></canvas><span class="badge bg-red">55%</span></div>                   
+                    </td>           
                   </tr>
                   <tr>
                     <td><a href="pages/examples/invoice.html">OR1848</a></td>
-                    <td>Samsung Smart TV</td>
+                    <td>Lluc Montero Comagut</td>
                     <td><span class="label label-warning">Pending</span></td>
                     <td>
-                      <div class="sparkbar" data-color="#f39c12" data-height="20"><canvas width="34" height="20" style="display: inline-block; width: 34px; height: 20px; vertical-align: top;"></canvas></div>
+                      <div class="sparkbar" data-color="#f39c12" data-height="20"><canvas width="34" height="20" style="display: inline-block; width: 34px; height: 20px; vertical-align: top;"></canvas><span class="badge bg-yellow">70%</span></div>
                     </td>
                   </tr>
                   <tr>
                     <td><a href="pages/examples/invoice.html">OR7429</a></td>
-                    <td>iPhone 6 Plus</td>
+                    <td>Enric Lopez Vila</td>
                     <td><span class="label label-danger">Delivered</span></td>
                     <td>
-                      <div class="sparkbar" data-color="#f56954" data-height="20"><canvas width="34" height="20" style="display: inline-block; width: 34px; height: 20px; vertical-align: top;"></canvas></div>
+                      <div class="sparkbar" data-color="#f56954" data-height="20"><canvas width="34" height="20" style="display: inline-block; width: 34px; height: 20px; vertical-align: top;"></canvas><span class="badge bg-red">20%</span></div>
                     </td>
                   </tr>
                   <tr>
                     <td><a href="pages/examples/invoice.html">OR7429</a></td>
-                    <td>Samsung Smart TV</td>
+                    <td>Meritxell Ohm Castrejon</td>
                     <td><span class="label label-info">Processing</span></td>
                     <td>
-                      <div class="sparkbar" data-color="#00c0ef" data-height="20"><canvas width="34" height="20" style="display: inline-block; width: 34px; height: 20px; vertical-align: top;"></canvas></div>
+                      <div class="sparkbar" data-color="#00c0ef" data-height="20"><canvas width="34" height="20" style="display: inline-block; width: 34px; height: 20px; vertical-align: top;"></canvas><span class="badge bg-green">85%</span></div>
                     </td>
                   </tr>
                   <tr>
                     <td><a href="pages/examples/invoice.html">OR1848</a></td>
-                    <td>Samsung Smart TV</td>
+                    <td>Joan Valls Fernandez</td>
                     <td><span class="label label-warning">Pending</span></td>
                     <td>
-                      <div class="sparkbar" data-color="#f39c12" data-height="20"><canvas width="34" height="20" style="display: inline-block; width: 34px; height: 20px; vertical-align: top;"></canvas></div>
+                      <div class="sparkbar" data-color="#f39c12" data-height="20"><canvas width="34" height="20" style="display: inline-block; width: 34px; height: 20px; vertical-align: top;"></canvas><span class="badge bg-green">100%</span></div>
                     </td>
                   </tr>
                   <tr>
                     <td><a href="pages/examples/invoice.html">OR7429</a></td>
-                    <td>iPhone 6 Plus</td>
+                    <td>Carolina Ledesma Ortiz </td>
                     <td><span class="label label-danger">Delivered</span></td>
                     <td>
-                      <div class="sparkbar" data-color="#f56954" data-height="20"><canvas width="34" height="20" style="display: inline-block; width: 34px; height: 20px; vertical-align: top;"></canvas></div>
+                      <div class="sparkbar" data-color="#f56954" data-height="20"><canvas width="34" height="20" style="display: inline-block; width: 34px; height: 20px; vertical-align: top;"></canvas><span class="badge bg-yellow">68%</span></div>
                     </td>
                   </tr>
                   <tr>
                     <td><a href="pages/examples/invoice.html">OR9842</a></td>
-                    <td>Call of Duty IV</td>
+                    <td>Carlos Buenaventura Fuentes</td>
                     <td><span class="label label-success">Shipped</span></td>
                     <td>
-                      <div class="sparkbar" data-color="#00a65a" data-height="20"><canvas width="34" height="20" style="display: inline-block; width: 34px; height: 20px; vertical-align: top;"></canvas></div>
+                      <div class="sparkbar" data-color="#00a65a" data-height="20"><canvas width="34" height="20" style="display: inline-block; width: 34px; height: 20px; vertical-align: top;"></canvas><span class="badge bg-green">90%</span></div>
                     </td>
                   </tr>
                   </tbody>
