@@ -104,6 +104,7 @@
     <Content Include="dist\img\doctors\happy-smiling-female-doctor.jpg" />
     <Content Include="dist\img\doctors\images %281%29.jpg" />
     <Content Include="dist\img\doctors\images.jpg" />
+    <Content Include="dist\img\radiografia_ap_lateral.jpg" />
     <Content Include="mailbox.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
@@ -1121,6 +1122,7 @@
     <Content Include="dashboard.aspx" />
     <Content Include="patients.aspx" />
     <Content Include="exercices.aspx" />
+    <Content Include="Patient1.aspx" />
     <Content Include="WebForm5.aspx" />
   </ItemGroup>
   <ItemGroup>
@@ -1159,6 +1161,13 @@
     </Compile>
     <Compile Include="mailbox.aspx.designer.cs">
       <DependentUpon>mailbox.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Patient1.aspx.cs">
+      <DependentUpon>Patient1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Patient1.aspx.designer.cs">
+      <DependentUpon>Patient1.aspx</DependentUpon>
     </Compile>
     <Compile Include="WebForm5.aspx.cs">
       <DependentUpon>WebForm5.aspx</DependentUpon>

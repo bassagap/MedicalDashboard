@@ -27,7 +27,7 @@
                   </thead>
                   <tbody>
                   <tr>
-                    <td><a href="pages/examples/invoice.html">PT9842</a></td>
+                    <td><a href="Patient1.aspx">PT9842</a></td>
                     <td>Montserrat Grifols Climent</td>
                     <td><span class="label label-success">Shipped</span></td>
                     <td>
