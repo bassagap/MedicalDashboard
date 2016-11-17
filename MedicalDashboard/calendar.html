@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>AdminLTE 2 | Calendar</title>
+  <title>R-CGB 2 | Calendar</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.6 -->
@@ -37,7 +37,7 @@
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>A</b>LT</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>Admin</b>LTE</span>
+      <span class="logo-lg"><b>R-CGB</b></span>
     </a>
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar navbar-static-top">
@@ -81,7 +81,7 @@
                         <img src="../dist/img/user3-128x128.jpg" class="img-circle" alt="User Image">
                       </div>
                       <h4>
-                        AdminLTE Design Team
+                        R-CGB Design Team
                         <small><i class="fa fa-clock-o"></i> 2 hours</small>
                       </h4>
                       <p>Why not buy a new awesome theme?</p>
@@ -303,7 +303,7 @@
             <li class="header">MAIN NAVIGATION</li>
             <li class="treeview">
                 <a href="dashboard.aspx">
-                    <i class="fa fa-dashboard"></i><span>dashboard</span>
+                    <i class="fa fa-dashboard"></i><span>Dashboard</span>
                     <span class="pull-right-container">
                         <i class="fa fa-angle-left pull-right"></i>
                     </span>
@@ -367,11 +367,11 @@
             <div class="box-body">
               <!-- the events -->
               <div id="external-events">
-                <div class="external-event bg-green">Lunch</div>
-                <div class="external-event bg-yellow">Go home</div>
-                <div class="external-event bg-aqua">Do homework</div>
-                <div class="external-event bg-light-blue">Work on UI design</div>
-                <div class="external-event bg-red">Sleep tight</div>
+                <div class="external-event bg-green">Carlos Buenaventura Fuentes</div>
+                <div class="external-event bg-yellow">Carolina Ledesma Ortiz</div>
+                <div class="external-event bg-aqua">ACRM Congress</div>
+                <div class="external-event bg-light-blue">Sync Meeting</div>
+                <div class="external-event bg-red">Enric Lopez Vila</div>
                 <div class="checkbox">
                   <label for="drop-remove">
                     <input type="checkbox" id="drop-remove">
@@ -711,27 +711,27 @@
       //Random default events
       events: [
         {
-          title: 'All Day Event',
+          title: 'Seminar Day',
           start: new Date(y, m, 1),
           backgroundColor: "#f56954", //red
           borderColor: "#f56954" //red
         },
         {
-          title: 'Long Event',
+          title: 'ACRM Congress',
           start: new Date(y, m, d - 5),
           end: new Date(y, m, d - 2),
           backgroundColor: "#f39c12", //yellow
           borderColor: "#f39c12" //yellow
         },
         {
-          title: 'Meeting',
+            title: 'Enric Lopez Vila',
           start: new Date(y, m, d, 10, 30),
           allDay: false,
           backgroundColor: "#0073b7", //Blue
           borderColor: "#0073b7" //Blue
         },
         {
-          title: 'Lunch',
+          title: 'Carolina Ledesma Ortiz',
           start: new Date(y, m, d, 12, 0),
           end: new Date(y, m, d, 14, 0),
           allDay: false,
@@ -739,7 +739,7 @@
           borderColor: "#00c0ef" //Info (aqua)
         },
         {
-          title: 'Birthday Party',
+          title: 'Lluc Montero Comagut',
           start: new Date(y, m, d + 1, 19, 0),
           end: new Date(y, m, d + 1, 22, 30),
           allDay: false,
@@ -747,12 +747,33 @@
           borderColor: "#00a65a" //Success (green)
         },
         {
-          title: 'Click for Google',
-          start: new Date(y, m, 28),
-          end: new Date(y, m, 29),
-          url: 'http://google.com/',
+          title: 'Lluc Montero Comagut',
+          start: new Date(y, m, 22, 10, 30),
+          end: new Date(y, m, 22, 11),
           backgroundColor: "#3c8dbc", //Primary (light-blue)
           borderColor: "#3c8dbc" //Primary (light-blue)
+        },
+        {
+            title: 'Montserrat Grifols Climent',
+            start: new Date(y, m, 28),
+            end: new Date(y, m, 29),
+            backgroundColor: "#00c0ef", //Info (aqua)
+            borderColor: "#00c0ef" //Info (aqua)
+        },
+        {
+            title: 'Carlos Buenaventura Fuentes',
+            start: new Date(y, m, 28, 9,15),
+            end: new Date(y, m, 28,9,45),
+            backgroundColor: "#3c8dbc", //Primary (light-blue)
+            borderColor: "#3c8dbc" //Primary (light-blue)
+        },
+        {
+            title: 'Meritxell Ohm Castrejon',
+            start: new Date(y, m, 28),
+            end: new Date(y, m, 29),
+            url: 'http://google.com/',
+            backgroundColor: "#f39c12", //yellow
+            borderColor: "#f39c12" //yello
         }
       ],
       editable: true,

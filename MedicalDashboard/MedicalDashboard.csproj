@@ -96,6 +96,7 @@
   <ItemGroup>
     <Content Include="calendar.html" />
     <Content Include="compose.html" />
+    <Content Include="dist\img\doctors\4249b7efae47640af634d554fb33f872.jpg" />
     <Content Include="dist\img\doctors\doctor-06.jpg" />
     <Content Include="dist\img\doctors\Doctor.jpg" />
     <Content Include="dist\img\doctors\doctor_PNG15963.png" />
@@ -104,6 +105,7 @@
     <Content Include="dist\img\doctors\happy-smiling-female-doctor.jpg" />
     <Content Include="dist\img\doctors\images %281%29.jpg" />
     <Content Include="dist\img\doctors\images.jpg" />
+    <Content Include="dist\img\doctors\img_exercise.jpg" />
     <Content Include="dist\img\radiografia_ap_lateral.jpg" />
     <Content Include="mailbox.html" />
     <Content Include="packages.config" />

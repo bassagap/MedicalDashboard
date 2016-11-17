@@ -203,7 +203,7 @@
                 <div class="col-md-4">
                     <div class="box box-default">
                         <div class="box-header with-border">
-                            <h3 class="box-title">Browser Usage</h3>
+                            <h3 class="box-title">Lesions</h3>
 
                             <div class="box-tools pull-right">
                                 <button type="button" class="btn btn-box-tool" data-widget="collapse">
@@ -224,12 +224,12 @@
                                 <!-- /.col -->
                                 <div class="col-md-4">
                                     <ul class="chart-legend clearfix">
-                                        <li><i class="fa fa-circle-o text-red"></i>Chrome</li>
-                                        <li><i class="fa fa-circle-o text-green"></i>IE</li>
-                                        <li><i class="fa fa-circle-o text-yellow"></i>FireFox</li>
-                                        <li><i class="fa fa-circle-o text-aqua"></i>Safari</li>
-                                        <li><i class="fa fa-circle-o text-light-blue"></i>Opera</li>
-                                        <li><i class="fa fa-circle-o text-gray"></i>Navigator</li>
+                                        <li><i class="fa fa-circle-o text-red"></i>Knee</li>
+                                        <li><i class="fa fa-circle-o text-green"></i>Ankle </li>
+                                        <li><i class="fa fa-circle-o text-yellow"></i>Wrist</li>
+                                        <li><i class="fa fa-circle-o text-aqua"></i>Hips</li>
+                                        <li><i class="fa fa-circle-o text-light-blue"></i>Shoulder</li>
+                                        <li><i class="fa fa-circle-o text-gray"></i>Hands</li>
                                     </ul>
                                 </div>
                                 <!-- /.col -->
@@ -239,11 +239,11 @@
                         <!-- /.box-body -->
                         <div class="box-footer no-padding">
                             <ul class="nav nav-pills nav-stacked">
-                                <li><a href="#">United States of America
+                                <li><a href="#">Knee
                   <span class="pull-right text-red"><i class="fa fa-angle-down"></i>12%</span></a></li>
-                                <li><a href="#">India <span class="pull-right text-green"><i class="fa fa-angle-up"></i>4%</span></a>
+                                <li><a href="#">Anke <span class="pull-right text-green"><i class="fa fa-angle-up"></i>4%</span></a>
                                 </li>
-                                <li><a href="#">China
+                                <li><a href="#">Hips
                   <span class="pull-right text-yellow"><i class="fa fa-angle-left"></i>0%</span></a></li>
                             </ul>
                         </div>
@@ -253,7 +253,7 @@
                 <div class="col-md-4">
                     <div class="box box-default">
                         <div class="box-header with-border">
-                            <h3 class="box-title">Browser Usage</h3>
+                            <h3 class="box-title">Exercises</h3>
 
                             <div class="box-tools pull-right">
                                 <button type="button" class="btn btn-box-tool" data-widget="collapse">
@@ -267,21 +267,14 @@
                             <div class="row">
                                 <div class="col-md-8">
                                     <div class="chart-responsive">
-                                        <canvas id="pieChart1" height="160" width="204" style="width: 204px; height: 160px;"></canvas>
+                                        
+                                        <img src="dist/img/doctors/img_exercise.jpg"  class ="img-thumbnail"/>
+                                        <%--<img src="dist/img/doctors/4249b7efae47640af634d554fb33f872.jpg" />--%>
+
                                     </div>
                                     <!-- ./chart-responsive -->
                                 </div>
                                 <!-- /.col -->
-                                <div class="col-md-4">
-                                    <ul class="chart-legend clearfix">
-                                        <li><i class="fa fa-circle-o text-red"></i>Chrome</li>
-                                        <li><i class="fa fa-circle-o text-green"></i>IE</li>
-                                        <li><i class="fa fa-circle-o text-yellow"></i>FireFox</li>
-                                        <li><i class="fa fa-circle-o text-aqua"></i>Safari</li>
-                                        <li><i class="fa fa-circle-o text-light-blue"></i>Opera</li>
-                                        <li><i class="fa fa-circle-o text-gray"></i>Navigator</li>
-                                    </ul>
-                                </div>
                                 <!-- /.col -->
                             </div>
                             <!-- /.row -->
@@ -289,12 +282,12 @@
                         <!-- /.box-body -->
                         <div class="box-footer no-padding">
                             <ul class="nav nav-pills nav-stacked">
-                                <li><a href="#">United States of America
-                  <span class="pull-right text-red"><i class="fa fa-angle-down"></i>12%</span></a></li>
-                                <li><a href="#">India <span class="pull-right text-green"><i class="fa fa-angle-up"></i>4%</span></a>
+                                <li><a href="#">Quadriceps stretch
+                  <span class="pull-right text-red"><i class="fa fa-angle-down"></i></span></a></li>
+                                <li><a href="#">Single knee to chest stretch <span class="pull-right text-green"><i class="fa fa-angle-up"></i></span></a>
                                 </li>
-                                <li><a href="#">China
-                  <span class="pull-right text-yellow"><i class="fa fa-angle-left"></i>0%</span></a></li>
+                                <li><a href="#">Double knee to chest
+                  <span class="pull-right text-yellow"><i class="fa fa-angle-left"></i></span></a></li>
                             </ul>
                         </div>
                         <!-- /.footer -->

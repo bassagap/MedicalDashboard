@@ -36,7 +36,7 @@
                 <ul class="timeline">
                     <!-- timeline time label -->
                     <li class="time-label">
-                        <span class="bg-red">10 Feb. 2014
+                        <span class="bg-red">17 Ago. 2016
                         </span>
                     </li>
                     <!-- /.timeline-label -->
@@ -47,17 +47,16 @@
                         <div class="timeline-item">
                             <span class="time"><i class="fa fa-clock-o"></i>12:05</span>
 
-                            <h3 class="timeline-header"><a href="#">Support Team</a> sent you an email</h3>
+                            <h3 class="timeline-header"><a href="#">Dr. Simone Lluch</a> sent you an email</h3>
 
                             <div class="timeline-body">
-                                Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles,
-                  weebly ning heekya handango imeem plugg dopplr jibjab, movity
-                  jajah plickers sifteo edmodo ifttt zimbra. Babblely odeo kaboodle
-                  quora plaxo ideeli hulu weebly balihoo...
+                                Osteoarthritis of the both knees, shoulder, and hips for more than
+ 20 years. Took ibruprofen until 1980, has taken acetaminophen since her GI
+ bleed, with good relief of intermittent arthritis pain.
+ There is no history of seizures, stroke, syncope, memory changes. 
                             </div>
                             <div class="timeline-footer">
                                 <a class="btn btn-primary btn-xs">Read more</a>
-                                <a class="btn btn-danger btn-xs">Delete</a>
                             </div>
                         </div>
                     </li>
@@ -67,9 +66,9 @@
                         <i class="fa fa-user bg-aqua"></i>
 
                         <div class="timeline-item">
-                            <span class="time"><i class="fa fa-clock-o"></i>5 mins ago</span>
+                            <span class="time"><i class="fa fa-clock-o"></i>3 months ago</span>
 
-                            <h3 class="timeline-header no-border"><a href="#">Sarah Young</a> accepted your friend request</h3>
+                            <h3 class="timeline-header no-border"><a href="#">Montserrat Grifols Climent</a> Sent a visit request</h3>
                         </div>
                     </li>
                     <!-- END timeline item -->
@@ -80,12 +79,12 @@
                         <div class="timeline-item">
                             <span class="time"><i class="fa fa-clock-o"></i>27 mins ago</span>
 
-                            <h3 class="timeline-header"><a href="#">Jay White</a> commented on your post</h3>
+                            <h3 class="timeline-header"><a href="#">Dr. Simone Lluch</a> Prescribed paracetamol</h3>
 
                             <div class="timeline-body">
-                                Take me to your leader!
-                  Switzerland is small and neutral!
-                  We are more like Germany, ambitious and misunderstood!
+                                 skin warm and smooth except for chronic venous stasis changes in
+ both legs. 1+ edema to the knees, non-pitting and very tender to palpation.
+ No clubbing nor cyanosis. 
                             </div>
                             <div class="timeline-footer">
                                 <a class="btn btn-warning btn-flat btn-xs">View comment</a>
@@ -95,7 +94,7 @@
                     <!-- END timeline item -->
                     <!-- timeline time label -->
                     <li class="time-label">
-                        <span class="bg-green">3 Jan. 2014
+                        <span class="bg-green">3 Jan. 2016
                         </span>
                     </li>
                     <!-- /.timeline-label -->
@@ -104,12 +103,12 @@
                         <i class="fa fa-camera bg-purple"></i>
 
                         <div class="timeline-item">
-                            <span class="time"><i class="fa fa-clock-o"></i>2 days ago</span>
+                            <span class="time"><i class="fa fa-clock-o"></i>10 months ago</span>
 
-                            <h3 class="timeline-header"><a href="#">Mina Lee</a> uploaded new photos</h3>
+                            <h3 class="timeline-header"><a href="#">Dr. Jaume Cortes</a> Uploaded new diagnostic images</h3>
 
                             <div class="timeline-body">
-                                Baigsduta jhgfjsgdfiaus iudgfiasug fiusifdagf i <br />
+                                Knee radiography <br />
                                 <img src="dist/img/radiografia_ap_lateral.jpg" />
                             </div>
                         </div>
